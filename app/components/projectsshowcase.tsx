@@ -68,7 +68,7 @@ const ProjectShowCase = () => {
                 <div className="absolute inset-0 bg-blue-500 opacity-0 hover:opacity-40 transition-all duration-300 flex items-center justify-center">
                   <div className="opacity-0 hover:opacity-100 transition-opacity">
                     <a
-                      href="https://next-agenw-481uck5li-ehsan-mads-projects.vercel.app/"
+                      href="https://next-agenw-ehsan-mads-projects.vercel.app/"
                       className="bg-white text-blue-900 px-4 py-2 rounded-md font-medium"
                       target="_blank"
                       rel="noopener noreferrer"
